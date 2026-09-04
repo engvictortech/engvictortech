@@ -10,7 +10,7 @@ Estou em busca da minha primeira oportunidade na área de dados, com interesse e
 
 ## 🌐 Redes sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([SEU_LINK_LINKEDIN](https://www.linkedin.com/in/victorhugocrispim/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
 
 ## 💻 Conjunto de tecnologias
