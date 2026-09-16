@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Victor Crispim
 
-### 📊 Analista de Dados Jr | BI | SQL | Power BI | Python | Business Analytics
+### 📊 Analista de Dados Jr | BI | SQL | Power BI | Pitão | Business Analytics
 
 Profissional formado em **Análise de Dados**, com foco em transformar dados em informações relevantes para apoiar decisões de negócio.
 
