@@ -1,117 +1,124 @@
 # 👋 Olá, eu sou Victor Crispim
 
-### Analista de Dados Jr | BI | SQL | Power BI | Python | Business Analytics
+### 📊 Analista de Dados Jr | BI | SQL | Power BI | Python | Business Analytics
 
-Sou formado em **Análise de Dados**, com foco em transformar dados em informações úteis para tomada de decisão.
+Profissional formado em **Análise de Dados**, com foco em transformar dados em informações relevantes para apoiar decisões de negócio.
 
-Meu portfólio combina **análise de dados, Business Intelligence, SQL, Python, Power BI e estatística aplicada**, com projetos voltados principalmente para **crédito, risco, cobrança e performance operacional**.
+Minha atuação combina **análise de dados, Business Intelligence, SQL, Python, Power BI e estatística aplicada**, com projetos direcionados principalmente para **crédito, risco, cobrança, performance operacional e análise de negócios**.
 
-Também possuo experiência profissional na área operacional/comercial, o que me permite analisar indicadores não apenas pelo aspecto técnico, mas também considerando o impacto dos dados no negócio.
-
----
-
-## 🧠 O que eu faço
-
-* 📊 Análise exploratória e tratamento de dados
-* 🗄️ SQL para consulta, transformação e análise
-* 🐍 Python com Pandas, NumPy e Scikit-Learn
-* 📈 Power BI, DAX e modelagem de dados
-* 📋 Excel e Power Query
-* 💳 Análise de crédito e inadimplência
-* 📞 Indicadores de cobrança e performance operacional
-* 📉 Análise estatística e identificação de padrões
-* 💡 Data Storytelling e geração de insights
+Também possuo experiência nas áreas **comercial e operacional**, o que me permite compreender os indicadores considerando não apenas a dimensão técnica, mas também os processos e objetivos do negócio.
 
 ---
 
-## 🛠️ Tecnologias
+## 🧠 Sobre mim
 
-**Dados & Programação**
+Minha abordagem para dados parte de uma pergunta simples:
 
-`Python` `Pandas` `NumPy` `Scikit-Learn`
+> **O que esses dados podem nos dizer sobre o negócio?**
 
-**Banco de Dados**
+Busco transformar dados brutos em:
 
-`SQL` `SQL Server` `BigQuery`
+* 📊 Indicadores e KPIs
+* 📈 Dashboards gerenciais
+* 🔎 Análises exploratórias
+* 💡 Insights de negócio
+* ⚙️ Processos automatizados
+* 🎯 Informações para apoiar decisões
 
-**Business Intelligence**
+Tenho especial interesse em aplicações de dados nas áreas de **Financeiro, Crédito, Risco, Cobrança, MIS e Performance Operacional**.
 
-`Power BI` `DAX` `Power Query`
+---
 
-**Ferramentas**
+## 🛠️ Tecnologias & Ferramentas
 
-`Excel` `Git` `GitHub` `Jupyter Notebook`
+### 🐍 Linguagens & Análise de Dados
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+
+### 🗄️ Banco de Dados
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+
+### 📊 Business Intelligence
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-1F1F1F?style=for-the-badge\&logo=powerbi\&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge\&logo=microsoft\&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+
+### 🔧 Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
 
 ---
 
 # 📊 Projetos em destaque
 
-## 💳 Credit Risk Analysis — Fintech
+### 💳 Credit Risk Analysis — Fintech
 
-Projeto de análise de risco de crédito utilizando dados macroeconômicos para investigar fatores associados à inadimplência.
+Análise de indicadores econômicos e sua relação com a inadimplência, utilizando técnicas de análise exploratória, correlação, variáveis defasadas e regressão.
 
-**Principais análises:**
-
-* Inadimplência
-* Taxa de juros
-* Desemprego
-* Correlação
-* Variáveis defasadas
-* Regressão linear
-* Avaliação do modelo
-
-**Tecnologias:** Python, Pandas, NumPy, Scikit-Learn e Matplotlib.
+**Stack:** Python • Pandas • NumPy • Scikit-Learn • Estatística
 
 🔗 [Ver projeto](https://github.com/engvictortech/credit-risk-analysis-fintech)
 
 ---
 
-## 📞 MIS — Cobrança & Performance
+### 📞 MIS — Cobrança & Performance
 
-Projeto de análise de performance operacional e recuperação de crédito simulando uma carteira de cobrança.
+Projeto de Business Intelligence voltado para análise de carteira de cobrança, produtividade e recuperação de crédito.
 
-**Principais indicadores:**
+**Principais KPIs:** Recovery Rate • Ticket Médio • Acionamentos • Pagamentos • Performance
 
-* Recovery Rate
-* Ticket Médio
-* Acionamentos
-* Performance operacional
-* Evolução da carteira
-* Recuperação de crédito
-
-**Tecnologias:** SQL, Power BI, DAX, Excel e análise de dados.
+**Stack:** SQL • Power BI • DAX • Excel
 
 🔗 [Ver projeto](https://github.com/engvictortech/mis-cobranca-performance)
 
 ---
 
-## 🏢 Corporate Risk & Performance
+### 🏢 Corporate Risk & Performance
 
-Projeto de análise de risco e performance corporativa utilizando dados estruturados de clientes empresariais.
+Solução analítica para acompanhamento de performance e risco de clientes empresariais.
 
-**Principais análises:**
+**Principais análises:** Receita • Inadimplência • Score de Risco • Performance • Classificação
 
-* Receita
-* Inadimplência
-* Score de risco
-* Performance
-* Classificação de clientes
-
-**Tecnologias:** Python, Pandas e análise de dados.
+**Stack:** Python • Pandas • Data Analysis
 
 🔗 [Ver projeto](https://github.com/engvictortech/corporate-risk-performance-assistant)
 
 ---
 
-## 📊 Dashboard de Cobrança
+### 📊 Dashboard de Cobrança — Call Center
 
-Dashboard voltado para acompanhamento de indicadores de cobrança e Call Center.
+Dashboard desenvolvido para acompanhamento de indicadores de cobrança, produtividade e performance operacional.
 
-**Tecnologias:**
-
-`SQL` `Excel` `Power BI` `DAX`
+**Stack:** SQL • Excel • Power BI • DAX
 
 🔗 [Ver projeto](https://github.com/engvictortech/dashboard-cobranca-anova)
+
+---
+
+# 🎯 Áreas de interesse
+
+```text
+Data Analytics
+Business Intelligence
+Business Analytics
+MIS
+SQL
+Power BI
+Crédito
+Risco
+Cobrança
+Performance Operacional
+```
 
 ---
 
@@ -123,25 +130,46 @@ Dashboard voltado para acompanhamento de indicadores de cobrança e Call Center.
 
 📊 **Business Intelligence — FIAP**
 
-📈 **Microsoft Power BI Data Analyst — PL-300**
+🏅 **Microsoft Certified: Power BI Data Analyst Associate — PL-300**
 
 ---
 
-# 🎯 Áreas de interesse
+# 📈 GitHub Analytics
 
-* Analista de Dados
-* Business Intelligence
-* MIS
-* Business Analytics
-* Crédito
-* Risco
-* Cobrança
-* Performance Operacional
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=engvictortech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engvictortech&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
 
 ---
 
-## 📫 Contato
+# 📊 Estatísticas
 
-🔗 [LinkedIn](https://www.linkedin.com/in/victorhugocrispim)
+<div align="center">
 
-💻 [GitHub](https://github.com/engvictortech)
+![GitHub Streak](https://streak-stats.demolab.com?user=engvictortech\&theme=tokyonight\&hide_border=false)
+
+</div>
+
+---
+
+# 📫 Vamos conversar?
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/victorhugocrispim)
+
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/engvictortech)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Transformando dados em informação para gerar decisões melhores.
+
+</div>
